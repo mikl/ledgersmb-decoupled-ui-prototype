@@ -5,7 +5,7 @@ export class HomeView extends React.Component {
   render () {
     return (
       <div>
-        <h1>Ledgersmb Decoupled Ui Prototype</h1>
+        <h1>LedgerSMB decoupled UI prototype</h1>
       </div>
     )
   }
